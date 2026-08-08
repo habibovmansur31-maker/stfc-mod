@@ -248,3 +248,13 @@ For questions about installation, configuration, compatibility, updates, or plug
 **Enjoy a more comfortable Star Trek Fleet Command experience!**
 
 Thank you to everyone who tested the plugins, reported problems, and helped improve the project.
+
+
+<img width="864" height="431" alt="AntiSpam_Panel" src="https://github.com/user-attachments/assets/f7a348da-a13e-4704-9a17-87fac8750b66" />
+<img width="862" height="727" alt="Armada_Panel" src="https://github.com/user-attachments/assets/e51610ad-7e5e-475e-a4e1-25a54e20d634" />
+<img width="865" height="602" alt="Miner_Panel" src="https://github.com/user-attachments/assets/f05da61e-fc9d-470f-8c93-26616fb92644" />
+<img width="867" height="704" alt="MemInspector" src="https://github.com/user-attachments/assets/916b5f56-645a-4f0d-8573-60d69a70c449" />
+<img width="863" height="706" alt="Hound_Panel" src="https://github.com/user-attachments/assets/b6387ba3-7bcc-4c24-9d3b-325b7156c286" />
+<img width="869" height="750" alt="ConfigManager" src="https://github.com/user-attachments/assets/89a941f7-01b7-43ca-be19-e141ec8f91ee" />
+<img width="865" height="714" alt="Berserrker_Panel" src="https://github.com/user-attachments/assets/82758541-5860-42a9-8af1-f77f4766f4bc" />
+<img width="866" height="550" alt="Repair_Panel" src="https://github.com/user-attachments/assets/ee5a4fbd-fab5-4744-87b4-5c37080eeb9e" />

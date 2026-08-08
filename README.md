@@ -1,15 +1,9 @@
-# stfc-mod
 # STAR TREK FLEET COMMAND
-
 # FREE BepInEx MOD PACK FOR WINDOWS PC
 
 **Six plugins • In-game settings • English and Russian interface • Free forever**
 
 ## Press F8 in the game to open the mod settings menu
-
-![Main screenshot](images/1.jpg)
-
-![Main screenshot 2](images/2.jpg)
 
 ---
 
@@ -41,29 +35,17 @@ Adds a mining button to the fleet interface. It finds an available mining node, 
 
 Miner supports full or protected cargo limits, automatic recall to the starbase, and an optional return to the mining system after unloading.
 
-![Miner](images/3.jpg)
-
-![Miner](images/4.jpg)
-
-![Miner](images/5.jpg)
-
 ## STFC.Repair
 
 Automatically repairs damaged or destroyed ships after they return home. It can also repair defensive platforms, request alliance help, and use available repair speedups and repair tokens.
 
 **Latinum is never used for repair speedups.**
 
-![Repair](images/6.jpg)
-
 ## STFC.AntiSpam
 
 Automatically blocks advertising pop-ups without affecting the shop, rewards, confirmations, or other in-game windows.
 
 It can be enabled or disabled at any time.
-
-![AntiSpam](images/Anti-Spam-Panel.png)
-
-![AntiSpam](images/Anti-Spam.png)
 
 ## STFC.MemoryInspector
 
@@ -142,12 +124,6 @@ A problem with one plugin does not mean that the entire package must be reinstal
 The first game launch may take slightly longer while BepInEx initializes.
 
 If the menu does not appear immediately, wait until the game has fully loaded and then press **F8** again.
-
-![Installation](images/7.jpg)
-
-![Installation](images/8.jpg)
-
-![Installation](images/9.jpg)
 
 ---
 
